@@ -1,5 +1,5 @@
 
-import datetime
+import datetim
 import hashlib
 
 def generate_daily_hash():
